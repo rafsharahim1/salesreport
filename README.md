@@ -105,6 +105,6 @@ A complete interactive BI dashboard suite that enables:
 
 ## 📬 Contact
 
-For inquiries or access to the dashboards, feel free to reach out via [LinkedIn](https://linkedin.com/in/muhammad-naveed-b0771a76).
+For inquiries or access to the dashboards, feel free to reach out via [LinkedIn](https://pk.linkedin.com/in/rafsharahim).
 
 ---
